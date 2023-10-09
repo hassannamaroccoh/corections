@@ -1,0 +1,30 @@
+body{
+    background-color: orange,
+}
+.images{
+    align-items: center;
+}
+img{
+    border-radius: 20pt;
+}
+h1 {
+    text-align: center;
+    background-color: blue;
+
+}
+.young{
+    position: absolute;
+    text-align: center;
+}
+p {
+    color:blue;
+}
+nav {
+    color:rgb(211, 255, 192);
+}
+section {
+    color:brown;
+}
+/*index//
+
+    
